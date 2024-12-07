@@ -13,6 +13,15 @@ This project includes a **Class Diagram** to outline the system architecture and
 - **Reservation System**: Book, cancel, or modify reservations based on room availability.
 - **Extensible Design**: Built using OOD principles for easy customization and extension.
 
+## Key Entities
+
+The system is designed around the following key entities:
+
+- **Hotel**: Represents the hotel and manages its rooms, guests, and reservations.
+- **Room**: Holds information about individual rooms, such as room number, type (e.g., single, double), and price.
+- **Guest**: Stores guest details like name, contact information, and reservation history.
+- **Reservation**: Manages booking details, including check-in and check-out dates, assigned room, and guest information.
+
 ## Installation
 
 1. **Clone the repository**:
@@ -27,3 +36,5 @@ This project includes a **Class Diagram** to outline the system architecture and
     python .\src\main.py
     ```
 
+## Contributors
+- H.M.K.C. Herath
