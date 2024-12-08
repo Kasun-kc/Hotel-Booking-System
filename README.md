@@ -42,3 +42,4 @@ The system is designed around the following key entities:
 
 - H.M.K.C. Herath
 - H.E.K. Wickramasinghe
+- E.D.S.R.Edirisinghe
