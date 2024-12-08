@@ -40,6 +40,9 @@ The system is designed around the following key entities:
 
 ## Contributors
 
-- H.M.K.C. Herath
-- H.E.K. Wickramasinghe
-- E.D.S.R.Edirisinghe
+- 22UG1-0785 | H.M.K.C. Herath
+- 22UG1-0789 | H.E.K. Wickramasinghe
+- 22UG1-0791 | E.D.S.R.Edirisinghe
+- 22UG2-0171 | Dunal Sanketh
+- 22UG2-0122 | Vishwa Nuwan
+- 22UG2-0018 | T.G.I.W.Thilakananda
