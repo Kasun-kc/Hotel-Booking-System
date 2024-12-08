@@ -25,6 +25,7 @@ The system is designed around the following key entities:
 ## Installation
 
 1. **Clone the repository**:
+
     ```bash
     git clone https://github.com/yourusername/hotel-booking-system.git
     cd hotel-booking-system
@@ -32,9 +33,12 @@ The system is designed around the following key entities:
 
 2. **Run the system**:
     The project is written in Python 3.x and requires no external dependencies. Simply run the Python scripts to start using the system.
+
     ```bash
     python .\src\main.py
     ```
 
 ## Contributors
+
 - H.M.K.C. Herath
+- H.E.K. Wickramasinghe
